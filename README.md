@@ -5,7 +5,7 @@ B1: Nhấn Vào  " <> Code " => " Download ZIP "
 
 B2: Sau Khi Tải FIle <b>"APP main.zip"</b> về thì giải nén nó ra <b>Extract Here</b> chúng ta sẽ có 2 File: <b>unlock.exe</b> và <b>APP.zip </b>
 
-B3: Hãy Nhấn Vào File Unlock.exe Để APP Tự Động Được Giải Nén 
+B3: Hãy Nhấn Vào File<b>unlock.exe</b> Để <b>APP.zip </b> Tự Động Được Giải Nén 
 
 ======================================================================== <br>
 <b>! Tab 2 !<br> Dành Cho Máy Không Có Trình Giải Nén <i>WinRAR</i>:</b> <br>
