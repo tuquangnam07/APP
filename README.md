@@ -1,7 +1,7 @@
 # Hướng Dẫn Tải VÀ Sử Dụng 
 <b>! Tab 1 ! <br> Dành Cho Máy Tính Có Trình Giải Nén <i>WinRAR</i>: </b> <br>
 B1: Nhấn Vào  " <> Code " => " Download ZIP "
-    Hoạc Vào Link https://github.com/tuquangnam07/APP/archive/refs/heads/main.zip Để Tải App
+    Hoạc  <a src="https://github.com/tuquangnam07/APP/archive/refs/heads/main.zip">Nhấn Vào Đây Để Tải App</a>
 
 B2: Sau Khi Tải FIle <b>"APP main.zip"</b> về thì giải nén nó ra <b>Extract Here</b> chúng ta sẽ có 2 File: <b>unlock.exe</b> và <b>APP.zip </b>
 
